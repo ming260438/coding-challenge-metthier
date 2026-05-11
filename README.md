@@ -4,6 +4,15 @@ A full-stack Task Management app built with **Node.js/Express** (backend) and **
 
 ---
 
+## Demo
+
+| | URL |
+|---|---|
+| **Frontend** | https://coding-challenge-metthier.vercel.app |
+| **Backend API** | https://coding-challenge-metthier-production.up.railway.app |
+
+---
+
 ## Architecture Overview
 
 ```
